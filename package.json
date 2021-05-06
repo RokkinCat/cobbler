@@ -1,7 +1,7 @@
 {
   "name": "cobbler",
   "version": "0.1.0",
-  "description": "A tool to generate résumés for Test Double agents.",
+  "description": "A tool to generate résumés for RokkinCats.",
   "main": "lib/cobbler.js",
   "bin": {
     "cobbler": "bin/cobbler"
@@ -14,14 +14,14 @@
   "license": "MIT",
   "dependencies": {
     "cson": "^4.0.0",
-    "debug": "~2.3.3",
-    "hummus": "~1.0.65",
+    "debug": "^4.3.2",
+    "hummus": "^1.0.110",
     "jstransformer-sass": "~0.1.0",
-    "marked": "~0.3.6",
-    "minimist": "~1.2.0",
-    "moment": "~2.17.0",
-    "nightmare": "~2.8.1",
-    "pug": "^2.0.4",
+    "marked": "^2.0.3",
+    "minimist": "^1.2.5",
+    "moment": "^2.29.1",
+    "nightmare": "^3.0.2",
+    "pug": "^3.0.2",
     "resume-schema": "0.0.18",
     "temp": "~0.8.3",
     "traverse": "~0.6.6"
